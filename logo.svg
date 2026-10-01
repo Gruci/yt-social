@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="yt-social">
+  <rect x="2" y="10" width="60" height="44" rx="14" fill="#ef233c"/>
+  <path d="M26 21 L44 32 L26 43 Z" fill="#ffffff"/>
+  <rect x="12" y="48" width="10" height="3" rx="1.5" fill="#ffffff" opacity="0.9"/>
+  <rect x="24" y="48" width="16" height="3" rx="1.5" fill="#ffffff" opacity="0.9"/>
+  <rect x="42" y="48" width="10" height="3" rx="1.5" fill="#ffffff" opacity="0.9"/>
+</svg>
